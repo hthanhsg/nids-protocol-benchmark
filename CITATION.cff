@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or its results, please cite both the software and the accompanying paper."
+title: "nids-protocol-benchmark: a controlled benchmark for evaluation-protocol effects in flow-based NIDS"
+abstract: >-
+  Code, configuration, seeds and the full 360-run results table for the
+  controlled experiment accompanying the systematic survey "Deep Learning for
+  Flow-Based Network Intrusion Detection (2022-2026)". The benchmark crosses
+  three evaluation-protocol factors (train/test split, identity features, task)
+  with five model families over eight standardised NetFlow corpora, holding data,
+  preprocessing, seed and hyper-parameters constant so that differences are
+  attributable to the protocol rather than the architecture.
+type: software
+authors:
+  - family-names: Nguyen
+    given-names: Hoang-Thanh
+    # [Author action: add ORCID if available, e.g. orcid: "https://orcid.org/0000-0000-0000-0000"]
+    affiliation: "Faculty of Information Technology 2, Posts and Telecommunications Institute of Technology, HCM City, Vietnam"
+  - family-names: Huynh
+    given-names: De-Thu
+    affiliation: "School of Computer Science \& Engineering, The Saigon International University, Ho Chi Minh City, Vietnam"
+  - family-names: Huynh
+    given-names: Trong-Thua
+    affiliation: "Faculty of Information Technology 2, Posts and Telecommunications Institute of Technology, HCM City, Vietnam"
+version: "1.0.0"
+date-released: "2026-08-12"
+license: MIT
+repository-code: "https://github.com/hthanhsg/nids-protocol-benchmark"
+keywords:
+  - network intrusion detection
+  - evaluation protocol
+  - benchmark
+  - graph neural networks
+  - NetFlow
+  - reproducibility
+# The paper this software accompanies. Fill in journal/DOI once accepted.
+preferred-citation:
+  type: review
+  title: "Deep Learning for Flow-Based Network Intrusion Detection: A Systematic Survey"
+  authors:
+    - family-names: Nguyen
+      given-names: Hoang-Thanh
+      affiliation: "Faculty of Information Technology 2, Posts and Telecommunications Institute of Technology, HCM City, Vietnam"
+    - family-names: Huynh
+      given-names: De-Thu
+      affiliation: "School of Computer Science \& Engineering, The Saigon International University, Ho Chi Minh City, Vietnam"
+    - family-names: Huynh
+      given-names: Trong-Thua
+      affiliation: "Faculty of Information Technology 2, Posts and Telecommunications Institute of Technology, HCM City, Vietnam"
+  year: 2026
+  # [Author action: fill these in at acceptance]
+  # journal: "Computers, Materials & Continua"
+  # doi: "10.xxxx/xxxxx"
