@@ -1,4 +1,4 @@
-# nids-protocol-benchmark
+# NIDS PROTOCOL BENCHMARK
 
 Controlled benchmark accompanying the systematic survey **"Deep Learning for Flow-Based Network Intrusion Detection: A Systematic Review of Architectures, Datasets and Evaluation Rigor"**.
 
