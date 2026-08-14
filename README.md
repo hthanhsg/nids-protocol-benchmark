@@ -1,7 +1,6 @@
 # nids-protocol-benchmark
 
-Controlled benchmark accompanying the systematic survey **"Deep Learning for
-Flow-Based Network Intrusion Detection (2022–2026)"**.
+Controlled benchmark accompanying the systematic survey **"Deep Learning for Flow-Based Network Intrusion Detection: A Systematic Review of Architectures, Datasets and Evaluation Rigor"**.
 
 The survey audits how the field evaluates flow-based NIDS models and argues that
 reported performance differences between studies often reflect the *evaluation
