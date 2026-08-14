@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this benchmark or its results, please cite both the software and the accompanying paper."
-title: "nids-protocol-benchmark: a controlled benchmark for evaluation-protocol effects in flow-based NIDS"
+title: "Deep Learning for Flow-Based Network Intrusion Detection: A Systematic Review of Architectures, Datasets and Evaluation Rigor"
 abstract: >-
   Code, configuration, seeds and the full 360-run results table for the
   controlled experiment accompanying the systematic survey "Deep Learning for
